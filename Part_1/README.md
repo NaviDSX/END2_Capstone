@@ -7,4 +7,5 @@ Not an excuse:
 - I reached out to your designated lead on 21st as a last effort (multiple times) to get tasks assigned and there has been no response.
 - I will try to scrape the 1000 QnAs by myself from the Pytorch website and also convert it into XZY format, this might result in duplicates but I cannot find a better alternative.
 - I will try to finish up the tasks at the earliest, max by the 20th day deadline.
+- --UPDATE: 8/24, Finally the lead has added me to the telegram group but not had time to explain, I am exploring the data, will try to call/follow up and finish. - Thanks for the extension
 
